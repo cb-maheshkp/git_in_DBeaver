@@ -1,0 +1,1 @@
+select * from cb-datawarehouse-prod.rs_prod.merchant_subscriptions
